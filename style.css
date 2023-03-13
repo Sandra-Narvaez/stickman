@@ -161,3 +161,63 @@ header{
     font-size: 100px;
     color: white;
 }
+
+.recursosya{
+    background-color: #c2e8ce;
+    padding: 100px 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textorecursosuno{
+    font-size: 30px;
+}
+
+.fotouno{
+    width: 200px;
+    height: auto;
+}
+
+.recursosyados{
+    background-color: #bb5a5a;
+    padding: 100px 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textorecursosdos{
+    color: white;
+    font-size: 30px;
+}
+
+.fotodos{
+    width: 200px;
+    height: auto;
+    transition: 0.3s;
+}
+
+.fotodos:hover{
+    transform: scale(1.2);
+    transition: 0.3s;
+}
+
+.textocompleto{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videocompleto{
+    width: 50px;
+    height: auto;
+}
+
+.stickmanloop{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+}
